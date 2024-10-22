@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://img.freepik.com/premium-photo/open-book-with-abstract-business-illustration_488220-4978.jpg",
+      "title": "Learning JavaScript Basics",
+      "author": "John Doe",
+      "author_img": "https://file.aiquickdraw.com/imgcompressed/img/compressed_98c008e836f58674bd72b8077b052179.webp",
+      "post_date": "2024-10-01",
+      "reading_time": "5 min read",
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://t3.ftcdn.net/jpg/09/27/53/42/360_F_927534275_6VptDvAZdosgOVANcI0RwJ2MimWWmtee.jpg",
+      "title": "Mastering React for Beginners",
+      "author": "Jane Smith",
+      "author_img": "https://file.aiquickdraw.com/imgcompressed/img/compressed_98c008e836f58674bd72b8077b052179.webp",
+      "post_date": "2024-09-15",
+      "reading_time": "8 min read",
+      "hashtags": ["#React", "#Frontend", "#JavaScript"]
+    },
+    {
+      "id": 3,
+      "cover": "https://t4.ftcdn.net/jpg/08/01/35/97/360_F_801359744_z0UqiyJoz1EWuEYkdzu1eCMXkNdW6J2y.jpg",
+      "title": "CSS Tips and Tricks for 2024",
+      "author": "Alice Johnson",
+      "author_img": "https://file.aiquickdraw.com/imgcompressed/img/compressed_98c008e836f58674bd72b8077b052179.webp",
+      "post_date": "2024-08-30",
+      "reading_time": "6 min read",
+      "hashtags": ["#CSS", "#Design", "#WebDesign"]
+    },
+    {
+      "id": 4,
+      "cover": "https://t3.ftcdn.net/jpg/07/81/10/90/360_F_781109064_c3DyfFUrJlBIZlfbWsxpW4fILrKCLMk8.jpg",
+      "title": "Understanding Git and GitHub",
+      "author": "Bob Lee",
+      "author_img": "https://file.aiquickdraw.com/imgcompressed/img/compressed_98c008e836f58674bd72b8077b052179.webp",
+      "post_date": "2024-07-20",
+      "reading_time": "7 min read",
+      "hashtags": ["#Git", "#GitHub", "#VersionControl"]
+    },
+    {
+      "id": 5,
+      "cover": "https://t4.ftcdn.net/jpg/08/13/79/51/360_F_813795179_9YYtpcoRUFbJKSPItb2VOcP2kl7iKN9P.jpg",
+      "title": "Boost Your Productivity with VS Code",
+      "author": "Emma Davis",
+      "author_img": "https://file.aiquickdraw.com/imgcompressed/img/compressed_98c008e836f58674bd72b8077b052179.webp",
+      "post_date": "2024-06-10",
+      "reading_time": "4 min read",
+      "hashtags": ["#VSCode", "#Productivity", "#Tools"]
+    }
+  ]
+  
