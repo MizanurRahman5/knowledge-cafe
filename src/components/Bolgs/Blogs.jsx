@@ -3,10 +3,9 @@ import { useState } from "react";
 import Blog from "../Blog/Blog";
 
 
-const Blogs = ({handleBookmarks}) => {
+const Blogs = ({handleBookmarks,handleReadTime}) => {
 
     const [bolgs, setBogs] = useState([])
-
     useEffect(() =>{
         const losdBlogs = async() =>{
             const res = await fetch('blog.json')
@@ -20,9 +19,10 @@ const Blogs = ({handleBookmarks}) => {
         <div className='md:w-2/3 space-y-8'>
             <h1>blogs : {bolgs.length}</h1>
             {
-                bolgs.map(blog => <Blog 
+                bolgs.map(blog => <Blog
                     key={blog.id} 
                     handleBookmarks={handleBookmarks}
+                    handleReadTime={handleReadTime}
                     blog={blog}
                     ></Blog>)
             }
